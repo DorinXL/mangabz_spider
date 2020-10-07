@@ -1,7 +1,7 @@
 # mangabz_spider
 Spidering comics from mangabz.
 
-从http://www.mangabz.com/上爬取漫画，项目灵感来源于看电锯人的时候，电锯人太好看了忍不住就想爬下来。
+从http://www.mangabz.com/ 上爬取漫画，项目灵感来源于看电锯人的时候，电锯人太好看了忍不住就想爬下来。
 
 # 依赖
 
